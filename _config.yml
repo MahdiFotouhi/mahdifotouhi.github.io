@@ -5,11 +5,11 @@ favicon: images/favicon.ico
 # Personal info
 name: Mahdi Fotouhi
 title: Master of Science in Secure Computing
-email: mahdi.fotouhi <AT> shahed.ac.ir
-#website: www.github.com/sproogen/resume-theme
+email: firstname.lastname@shahed.ac.ir
+Gooogle Scholar: https://scholar.google.com/citations?user=2RdgRZ4AAAAJ&hl=en
 
 # Social links
-#twitter_username: facespics
+#twitter_username: cript0m4n
 github_username:  mahdifotouhi
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -17,7 +17,7 @@ github_username:  mahdifotouhi
 #instagram_username: chillwildlife
 linkedin_username: mahdi-fotouhi
 # pinterest_username: jekyll
-#youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
