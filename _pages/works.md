@@ -25,10 +25,5 @@ Selected Projects and Experience
 *    Data Analysis and Database Administration, 2016-2018
 * **Leadership**
 *    Project Leadership in Social Media Development 2016-2018
-*    Startup Co-founder at Rasava, Hoosh Bartar, Visatoon, Echopapatravel and AbrServer, 2015-2020
+*    Startup Co-founder at [Hoosh Bartar](http://hooshbartar.com), [Visatoon](https://www.visatoon.com), [Echopapatravel](http://wwww.echopapatravel.com) and [AbrServer](https://www.AbrServer.com) and Rasava, 2015-2020
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
