@@ -11,7 +11,8 @@ Education
 ------
 * **Master of Science in Secure Computing** at Shahed University, Tehran, Iran, 2019
     * Thesis Title: A lightweight authentication protocol for healthcare systems
-      * Supervisors: Dr. Majid Bayat, Dr. Mohammad Ali Doostari
+    * Supervisors: Dr. Majid Bayat, Dr. Mohammad Ali Doostari
+	* CGPA: 19.05/20 (4.00/4.00)
 
 * **Bachelor of Science in Computer Software Engineering** at Payame Noor University, Tehran, Iran, 2016
 
@@ -33,6 +34,12 @@ Selected Publications
 three-factor authentication scheme for wsn-based iiot. Wireless Networks, 2020 (Under Review)
 
 3. Mahdi Fotouhi and Hossein Abdi Nasib Far. A survey on privacy-preserving authentication approaches in autonomous vehicle systems (Under Submission)
+
+Honors & Awards
+------
+* Full-tuition scholarship for master's program in Shahed university, 2017
+* Being among the top one percent of 30,000 participants in the master's degree entrance exam of Iranian universities, 2017
+* Being ranked first among computer engineering and information technology students in the field of secure computing at Shahed University in 2017-2019
 
 Skills and Qualifications
 ------
