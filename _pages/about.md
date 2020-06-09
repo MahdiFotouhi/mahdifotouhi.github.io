@@ -28,8 +28,7 @@ Research Intrests
 
 Selected Publications
 ======
-1. Mahdi Fotouhi, Majid Bayat, Ashok Kumar Das, Hossein Abdi Nasib Far, S Morteza Pournaghi, and MA Doostari. A lightweight and secure two-factor authentication
-scheme for wireless body area networks in health-care iot. Computer Networks, page 107333, 2020
+1. Mahdi Fotouhi, Majid Bayat, Ashok Kumar Das, Hossein Abdi Nasib Far, S Morteza Pournaghi, and MA Doostari. A lightweight and secure two-factor authentication scheme for wireless body area networks in health-care iot. Computer Networks, page 107333, 2020
 
 2. Hossein Abdi Nasib Far, Majid Bayat, Ashok Kumar Das, Mahdi Fotouhi, S Morteza Pournaghi, and MA Doostari. Laptas: Lightweight anonymous privacy-preserving
 three-factor authentication scheme for wsn-based iiot. Wireless Networks, 2020 (Under Review)
@@ -50,11 +49,10 @@ Skills and Qualifications
 
 Programming Languages & Technologies
 ======
-*Proficient: |
-Android, PHP, Mysql, Sqlite, SQL, HTML, CSS, Wordpress, Android Studio, Gradle, CentOS, Windows Server, Acunetx,
-NMap, Nessus, ModSecurity, SQLMap, Metasploit, Wireshark, Firebug, Fiddler, OllyDbg, LATEX, Apktool, Dex2jar, VirtualBox, VMware workstation and ESXi, Kerio VPN, IIS, Active Directory.
+*Proficient: 
+Android, PHP, Mysql, Sqlite, SQL, HTML, CSS, Wordpress, Android Studio, Gradle, CentOS, Windows Server, Acunetx, NMap, Nessus, ModSecurity, SQLMap, Metasploit, Wireshark, Firebug, Fiddler, OllyDbg, LATEX, Apktool, Dex2jar, VirtualBox, VMware workstation and ESXi, Kerio VPN, IIS, Active Directory.
 
-* Experienced: |
+* Experienced: 
  C++, C#, Python, Perl, Java SE, J2EE, Assembly, Git, XML,intellij idea, Oracle, MongoDB, Cassandra, JQL, JavaScript, Node.js, Joomla, CouchDB, Json, ElasticSearch, Ubuntu, Backtrack, Kali Linux, Excel, Access, AWS, TrueCrypt, PhotoShop, NS2, ProVerif, Gekko, THC Hydra, John the Ripper, Brutus, Cain and Abel, Tcpdump, IDA Pro, Snort, Firebase, AWS.
 
 Languages
