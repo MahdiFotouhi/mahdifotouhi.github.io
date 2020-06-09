@@ -17,7 +17,7 @@ Education
 
 Research Intrests
 ------
-* Internet of Things Security
+* Internet of Things (IoT) Security
 * Applied Cryptography
 * Privacy Enhancing
 * AI nad machine learning for Cyber Security
