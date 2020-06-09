@@ -10,11 +10,11 @@ redirect_from:
 
 Education
 ======
-* **Master of Science, Secure Computing, Shahed University, Tehran, Iran, 2019**
+* **Master of Science in Secure Computing** at Shahed University, Tehran, Iran, 2019
     * Thesis Title: A lightweight authentication protocol for healthcare systems
       * Supervisors: Dr. Majid Bayat, Dr. Mohammad Ali Doostari
 
-* **Bachelor of Science, Computer Software Engineering, Payame Noor University, Tehran, Iran, 2016**
+* **Bachelor of Science in Computer Software Engineering** at Payame Noor University, Tehran, Iran, 2016
 
 Research Intrests
 ======
@@ -49,10 +49,10 @@ Skills and Qualifications
 
 Programming Languages & Technologies
 ======
-* Proficient: |
+* **Proficient:** 
 Android, PHP, Mysql, Sqlite, SQL, HTML, CSS, Wordpress, Android Studio, Gradle, CentOS, Windows Server, Acunetx, NMap, Nessus, ModSecurity, SQLMap, Metasploit, Wireshark, Firebug, Fiddler, OllyDbg, LATEX, Apktool, Dex2jar, VirtualBox, VMware workstation and ESXi, Kerio VPN, IIS, Active Directory.
 
-* Experienced: |
+* **Experienced:** 
  C++, C#, Python, Perl, Java SE, J2EE, Assembly, Git, XML,intellij idea, Oracle, MongoDB, Cassandra, JQL, JavaScript, Node.js, Joomla, CouchDB, Json, ElasticSearch, Ubuntu, Backtrack, Kali Linux, Excel, Access, AWS, TrueCrypt, PhotoShop, NS2, ProVerif, Gekko, THC Hydra, John the Ripper, Brutus, Cain and Abel, Tcpdump, IDA Pro, Snort, Firebase, AWS.
 
 Languages
