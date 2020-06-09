@@ -1,13 +1,10 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Selected Projects and Experience"
 permalink: /works/
 author_profile: true
 ---
 
-Selected Projects and Experience
-======
-------
 * **Senior Android Developer**
 *    Developed an unofficial messaging app which uses Social Media API with almost 500k users, 2012-2018
 *    Developed an Android application for finding Iranian phone caller's name, 2018
