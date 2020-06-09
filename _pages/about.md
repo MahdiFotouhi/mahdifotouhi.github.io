@@ -16,28 +16,28 @@ Education
 
 * **Bachelor of Science in Computer Software Engineering** at Payame Noor University, Tehran, Iran, 2016
 
-Research Intrests
+Research Interests
 ------
 * Internet of Things (IoT) Security
 * Applied Cryptography
 * Privacy Enhancing
-* AI nad machine learning for Cyber Security
+* AI and machine learning for Cyber Security
 * Ethical Hacking
 * Security Assessment & Verification
 * System security
 
 Selected Publications
 ------
-1. Mahdi Fotouhi, Majid Bayat, Ashok Kumar Das, Hossein Abdi Nasib Far, S Morteza Pournaghi, and MA Doostari. A lightweight and secure two-factor authentication scheme for wireless body area networks in health-care iot. Computer Networks, page 107333, 2020
+1. Mahdi Fotouhi, Majid Bayat, Ashok Kumar Das, Hossein Abdi Nasib Far, S Morteza Pournaghi, and MA Doostari. A lightweight and secure two-factor authentication scheme for wireless body area networks in health-care IoT. Computer Networks, page 107333, 2020
 
-2. Hossein Abdi Nasib Far, Majid Bayat, Ashok Kumar Das, Mahdi Fotouhi, S Morteza Pournaghi, and MA Doostari. Laptas: Lightweight anonymous privacy-preserving
-three-factor authentication scheme for wsn-based iiot. Wireless Networks, 2020 (Under Review)
+2. Hossein Abdi Nasib Far, Majid Bayat, Ashok Kumar Das, Mahdi Fotouhi, S Morteza Pournaghi, and MA Doostari. LAPTAS: Lightweight anonymous privacy-preserving
+three-factor authentication scheme for WSN-based IIoT. Wireless Networks, 2020 (Under Review)
 
 3. Mahdi Fotouhi and Hossein Abdi Nasib Far. A survey on privacy-preserving authentication approaches in autonomous vehicle systems (Under Submission)
 
 Honors & Awards
 ------
-* Full-tuition scholarship for master's program in Shahed university, 2017
+* Full-tuition scholarship for master's program in Shahed University, 2017
 * Being among the top one percent of 30,000 participants in the master's degree entrance exam of Iranian universities, 2017
 * Being ranked first among computer engineering and information technology students in the field of secure computing at Shahed University in 2017-2019
 
@@ -56,10 +56,10 @@ Skills and Qualifications
 Programming Languages & Technologies
 ------
 * **Proficient:** 
-Android, PHP, Mysql, Sqlite, SQL, HTML, CSS, Wordpress, Android Studio, Gradle, CentOS, Windows Server, Acunetx, NMap, Nessus, ModSecurity, SQLMap, Metasploit, Wireshark, Firebug, Fiddler, OllyDbg, LATEX, Apktool, Dex2jar, VirtualBox, VMware workstation and ESXi, Kerio VPN, IIS, Active Directory.
+Android, PHP, Mysql, Sqlite, SQL, HTML, CSS, Wordpress, Android Studio, Gradle, CentOS, Windows Server, Acunetx, NMap, Nessus, ModSecurity, SQLMap, Metasploit, Wireshark, Firebug, Fiddler, OllyDbg, LATEX, Apktool, Dex2jar, VirtualBox, VMware Workstation and ESXi, Kerio VPN, IIS, Active Directory.
 
 * **Experienced:** 
- C++, C#, Python, Perl, Java SE, J2EE, Assembly, Git, XML,intellij idea, Oracle, MongoDB, Cassandra, JQL, JavaScript, Node.js, Joomla, CouchDB, Json, ElasticSearch, Ubuntu, Backtrack, Kali Linux, Excel, Access, AWS, TrueCrypt, PhotoShop, NS2, ProVerif, Gekko, THC Hydra, John the Ripper, Brutus, Cain and Abel, Tcpdump, IDA Pro, Snort, Firebase, AWS.
+ C++, C#, Python, Perl, Java SE, J2EE, Assembly, Git, XML, Intellij idea, Oracle, MongoDB, Cassandra, JQL, JavaScript, Node.js, Joomla, CouchDB, Json, ElasticSearch, Ubuntu, Backtrack, Kali Linux, Excel, Access, AWS, TrueCrypt, PhotoShop, NS2, ProVerif, Gekko, THC Hydra, John the Ripper, Brutus, Cain and Abel, Tcpdump, IDA Pro, Snort, Firebase, AWS.
 
 Languages
 ------
