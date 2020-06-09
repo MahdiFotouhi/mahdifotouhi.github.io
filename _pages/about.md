@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Education"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Education
-======
 * **Master of Science in Secure Computing** at Shahed University, Tehran, Iran, 2019
     * Thesis Title: A lightweight authentication protocol for healthcare systems
       * Supervisors: Dr. Majid Bayat, Dr. Mohammad Ali Doostari
