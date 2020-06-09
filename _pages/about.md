@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Education"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+Education
+------
 * **Master of Science in Secure Computing** at Shahed University, Tehran, Iran, 2019
     * Thesis Title: A lightweight authentication protocol for healthcare systems
       * Supervisors: Dr. Majid Bayat, Dr. Mohammad Ali Doostari
@@ -15,7 +16,7 @@ redirect_from:
 * **Bachelor of Science in Computer Software Engineering** at Payame Noor University, Tehran, Iran, 2016
 
 Research Intrests
-======
+------
 * Internet of Things Security
 * Applied Cryptography
 * Privacy Enhancing
@@ -25,7 +26,7 @@ Research Intrests
 * System security
 
 Selected Publications
-======
+------
 1. Mahdi Fotouhi, Majid Bayat, Ashok Kumar Das, Hossein Abdi Nasib Far, S Morteza Pournaghi, and MA Doostari. A lightweight and secure two-factor authentication scheme for wireless body area networks in health-care iot. Computer Networks, page 107333, 2020
 
 2. Hossein Abdi Nasib Far, Majid Bayat, Ashok Kumar Das, Mahdi Fotouhi, S Morteza Pournaghi, and MA Doostari. Laptas: Lightweight anonymous privacy-preserving
@@ -34,7 +35,7 @@ three-factor authentication scheme for wsn-based iiot. Wireless Networks, 2020 (
 3. Mahdi Fotouhi and Hossein Abdi Nasib Far. A survey on privacy-preserving authentication approaches in autonomous vehicle systems (Under Submission)
 
 Skills and Qualifications
-======
+------
 * Principles and Fundamentals of Information Security Management System Course, TUV Academy, 2019
 * Android Development Course, FAD, 2015
 * PHP Development Course, Barname Nevis, 2014
@@ -46,7 +47,7 @@ Skills and Qualifications
 * Website, System and Network Security and Hack Course, 120 hours, Network Era & Ashiyane Security, 2011
 
 Programming Languages & Technologies
-======
+------
 * **Proficient:** 
 Android, PHP, Mysql, Sqlite, SQL, HTML, CSS, Wordpress, Android Studio, Gradle, CentOS, Windows Server, Acunetx, NMap, Nessus, ModSecurity, SQLMap, Metasploit, Wireshark, Firebug, Fiddler, OllyDbg, LATEX, Apktool, Dex2jar, VirtualBox, VMware workstation and ESXi, Kerio VPN, IIS, Active Directory.
 
