@@ -7,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+Problems are opportunities, a chance to learn something new, to grow, to succeed where others have failed. 
+I'm a problem resolver and keen on searching until reach the solution. 
+Currently, I'm looking for a PhD studentship position in Cyber Security.
+
 Education
 ------
 * **Master of Science in Secure Computing** at Shahed University, Tehran, Iran, 2019
@@ -44,9 +49,9 @@ Honors & Awards
 Skills and Qualifications
 ------
 * Principles and Fundamentals of Information Security Management System Course, TUV Academy, 2019
-* Android Development Course, FAD, 2015
+* Advanced Android Development, FAD, 2015
 * PHP Development Course, Barname Nevis, 2014
-* Linux Administration LPIC-2, Anisa Technology Courses, 2013
+* Linux Engineer LPIC-2, Anisa Technology Courses, 2013
 * Network Server Security Course, 30 hours, Ashiyane Security, 2013
 * Windows Administration MCSE/MCITP, 120 hours, Network Era, 2012
 * Linux Administration LPIC-1, Network Era, 2012
