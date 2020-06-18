@@ -17,7 +17,7 @@ Education
 * **Master of Science in Secure Computing** at Shahed University, Tehran, Iran, 2019
     * Thesis Title: A lightweight authentication protocol for healthcare systems
     * Supervisors: Dr. Majid Bayat, Dr. Mohammad Ali Doostari
-	* CGPA: 19.05/20 (4.00/4.00)
+	* CGPA: 18.43/20 (4.00/4.00)
 
 * **Bachelor of Science in Computer Software Engineering** at Payame Noor University, Tehran, Iran, 2016
 
