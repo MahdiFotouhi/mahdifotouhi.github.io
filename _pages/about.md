@@ -74,6 +74,6 @@ Languages
 
 Interests
 ------
-Hacking, SEO, Psychology, Cooking, Meditation, Traveling
+Psychology, Cooking, Meditation, Traveling
 
 
