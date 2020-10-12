@@ -69,8 +69,8 @@ Android, PHP, Mysql, Sqlite, SQL, HTML, CSS, Wordpress, Android Studio, Gradle, 
 Languages
 ------
 * Persian: Native
-* English: Fluent
-* German: Elementary / A1
+* English: Fluent / IELTS Test Score: 7
+* German: Elementary 
 
 Interests
 ------
